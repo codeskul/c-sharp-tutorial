@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Introduction to C# and .
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Primitive Types and Expressions", "3. Primitive Types and Expressions\3. Primitive Types and Expressions.csproj", "{3C4BDC45-5A16-4C7C-BA09-FA9DE92536B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Non-Primitive Types", "4. Non-Primitive Types\4. Non-Primitive Types.csproj", "{7E6E4609-001C-44A5-BFEE-B52BE13B8C43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3C4BDC45-5A16-4C7C-BA09-FA9DE92536B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C4BDC45-5A16-4C7C-BA09-FA9DE92536B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C4BDC45-5A16-4C7C-BA09-FA9DE92536B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E6E4609-001C-44A5-BFEE-B52BE13B8C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6E4609-001C-44A5-BFEE-B52BE13B8C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6E4609-001C-44A5-BFEE-B52BE13B8C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6E4609-001C-44A5-BFEE-B52BE13B8C43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

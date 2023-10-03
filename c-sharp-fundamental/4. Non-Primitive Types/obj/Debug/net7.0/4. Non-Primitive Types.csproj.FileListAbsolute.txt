@@ -1,0 +1,15 @@
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\bin\Debug\net7.0\4. Non-Primitive Types.exe
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\bin\Debug\net7.0\4. Non-Primitive Types.deps.json
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\bin\Debug\net7.0\4. Non-Primitive Types.runtimeconfig.json
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\bin\Debug\net7.0\4. Non-Primitive Types.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\bin\Debug\net7.0\4. Non-Primitive Types.pdb
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.csproj.AssemblyReference.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.AssemblyInfoInputs.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.AssemblyInfo.cs
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.csproj.CoreCompileInputs.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\refint\4. Non-Primitive Types.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.pdb
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\4. Non-Primitive Types.genruntimeconfig.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\4. Non-Primitive Types\obj\Debug\net7.0\ref\4. Non-Primitive Types.dll
