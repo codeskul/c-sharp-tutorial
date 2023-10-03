@@ -1,0 +1,15 @@
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\bin\Debug\net7.0\2. Introduction to C# and .NET Framework.exe
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\bin\Debug\net7.0\2. Introduction to C# and .NET Framework.deps.json
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\bin\Debug\net7.0\2. Introduction to C# and .NET Framework.runtimeconfig.json
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\bin\Debug\net7.0\2. Introduction to C# and .NET Framework.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\bin\Debug\net7.0\2. Introduction to C# and .NET Framework.pdb
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.csproj.AssemblyReference.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.AssemblyInfoInputs.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.AssemblyInfo.cs
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.csproj.CoreCompileInputs.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\refint\2. Introduction to C# and .NET Framework.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.pdb
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\2. Introduction to C# and .NET Framework.genruntimeconfig.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\2. Introduction to C# and .NET Framework\obj\Debug\net7.0\ref\2. Introduction to C# and .NET Framework.dll

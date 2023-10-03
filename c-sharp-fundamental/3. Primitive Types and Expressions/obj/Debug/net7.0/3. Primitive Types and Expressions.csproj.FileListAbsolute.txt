@@ -1,0 +1,15 @@
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\bin\Debug\net7.0\3. Primitive Types and Expressions.exe
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\bin\Debug\net7.0\3. Primitive Types and Expressions.deps.json
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\bin\Debug\net7.0\3. Primitive Types and Expressions.runtimeconfig.json
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\bin\Debug\net7.0\3. Primitive Types and Expressions.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\bin\Debug\net7.0\3. Primitive Types and Expressions.pdb
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.csproj.AssemblyReference.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.AssemblyInfoInputs.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.AssemblyInfo.cs
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.csproj.CoreCompileInputs.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\refint\3. Primitive Types and Expressions.dll
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.pdb
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\3. Primitive Types and Expressions.genruntimeconfig.cache
+D:\Git-Projects\c-sharp-tutorial\c-sharp-fundamental\3. Primitive Types and Expressions\obj\Debug\net7.0\ref\3. Primitive Types and Expressions.dll
